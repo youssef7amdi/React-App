@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youssef7amdi/React-App/static/css/main.4963bcef.css",
+    "main.js": "/youssef7amdi/React-App/static/js/main.0bb0418a.js",
+    "index.html": "/youssef7amdi/React-App/index.html",
+    "main.4963bcef.css.map": "/youssef7amdi/React-App/static/css/main.4963bcef.css.map",
+    "main.0bb0418a.js.map": "/youssef7amdi/React-App/static/js/main.0bb0418a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4963bcef.css",
+    "static/js/main.0bb0418a.js"
+  ]
+}
